@@ -1,0 +1,16 @@
+2026-04-20 09:50:50,242 | WARNING | [VALIDATOR] Input is empty. Please describe what kind of music you'd like.
+2026-04-20 09:50:50,242 | WARNING | [VALIDATOR] Input is very short. More detail helps me find better matches.
+2026-04-20 09:50:50,243 | WARNING | [VALIDATOR] Input is very short. More detail helps me find better matches.
+2026-04-20 09:50:50,246 | WARNING | [VALIDATOR] Input is very long. I'll focus on the key details.
+2026-04-20 09:50:50,249 | WARNING | [VALIDATOR] No songs found for genre 'edm'.
+2026-04-20 09:50:50,249 | WARNING | [VALIDATOR] Acoustic preference conflicts with edm genre — results may have low scores.
+2026-04-20 09:50:50,251 | WARNING | [VALIDATOR] Genre 'country' is not in the catalog. Available: edm, folk, jazz, lofi, metal, pop, rock
+2026-04-20 09:50:50,251 | WARNING | [VALIDATOR] No songs found for genre 'country'.
+2026-04-20 09:50:50,252 | WARNING | [VALIDATOR] Chill mood with very high energy is unusual — scores may be lower.
+2026-04-20 09:50:50,254 | INFO | [EVALUATOR] Confidence: 0.911 | {"score_coverage": 0.977, "genre_availability": 0.6, "score_spread": 1.0, "absolute_score": 1.0, "top_score": 5.375, "max_possible": 5.5}
+2026-04-20 09:50:50,256 | INFO | [EVALUATOR] Confidence: 0.534 | {"score_coverage": 0.519, "genre_availability": 0.0, "score_spread": 0.848, "absolute_score": 0.786, "top_score": 2.75, "max_possible": 5.3}
+2026-04-20 09:50:50,305 | INFO | [EVALUATOR] No recommendations — confidence = 0.0
+2026-04-20 09:50:50,306 | INFO | [EVALUATOR] Attempting profile refinement
+2026-04-20 09:50:50,306 | INFO | [EVALUATOR] Relaxed genre: edm → pop
+2026-04-20 09:50:50,307 | INFO | [EVALUATOR] Dropped acoustic preference (conflicts with genre)
+2026-04-20 09:50:50,307 | INFO | [EVALUATOR] Refined profile | {"favorite_genre": "pop", "favorite_mood": "energetic", "energy_target": 0.9, "prefers_acoustic": false}

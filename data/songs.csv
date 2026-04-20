@@ -1,0 +1,21 @@
+title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
+Midnight Drive,The Neons,pop,happy,0.78,120,0.82,0.75,0.12
+Rainy Window,Lila Moon,pop,sad,0.35,88,0.25,0.40,0.55
+Electric Pulse,Volt Brothers,edm,energetic,0.95,140,0.70,0.90,0.05
+Chill Horizon,Skywave,lofi,chill,0.25,72,0.50,0.30,0.80
+Broken Strings,Ash Riven,rock,sad,0.60,100,0.20,0.35,0.30
+Neon Jungle,DJ Kora,edm,happy,0.88,132,0.85,0.92,0.03
+Velvet Dusk,Lila Moon,jazz,chill,0.30,95,0.55,0.45,0.70
+Morning Brew,The Acoustics,folk,happy,0.45,110,0.75,0.50,0.90
+Thunder Road,Iron Veil,rock,energetic,0.90,150,0.40,0.55,0.10
+Quiet Library,Skywave,lofi,chill,0.20,68,0.45,0.25,0.85
+Golden Hour,The Neons,pop,happy,0.65,115,0.80,0.70,0.25
+Lost Signal,Ash Riven,rock,sad,0.55,98,0.15,0.30,0.20
+Starlit Cafe,Bossa Crew,jazz,chill,0.35,100,0.60,0.50,0.75
+Bass Cathedral,DJ Kora,edm,energetic,0.92,145,0.65,0.88,0.02
+Campfire Song,The Acoustics,folk,happy,0.40,105,0.70,0.45,0.95
+Frostbite,Iron Veil,metal,energetic,0.95,170,0.15,0.40,0.05
+Daydream,Skywave,lofi,chill,0.22,70,0.55,0.28,0.82
+Paper Hearts,Lila Moon,pop,sad,0.38,92,0.30,0.42,0.50
+Saxophone Nights,Bossa Crew,jazz,happy,0.50,108,0.72,0.60,0.65
+Wildfire,The Neons,pop,energetic,0.82,128,0.78,0.80,0.08
